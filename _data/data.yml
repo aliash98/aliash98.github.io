@@ -62,6 +62,7 @@ education:
     - degree: B.Sc. in Computer Engineering, Minor in Pure Chemistry
       university: Sharif University of Technology
       time: 2017 - Present
+      link: "#"
       details: |
         Related Courses: Machine Learning (graduate, audited), Artificial Intelligence,
         Linear Algebra, Introduction to Bioinformatics, Probability and Statistics, Design of Algorithms,
