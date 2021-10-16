@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Ali J. Alaee
-    tagline: B.Sc. majoring in Computer Engineering
+    tagline: B.Sc. in Computer Engineering
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -50,7 +50,7 @@ career-profile:
        Hi! My name is Ali Jandaghi Alaee and I am in my last year of studies toward a Bachelor's majoring in
        Computer Engineering at the Sharif University of Technology.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
-       especially Natural Language Processing and Deep Learning. For more details, see my [CV]().    
+       especially Natural Language Processing and Deep Learning. For more details, see my [CV](www.google.com).    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
@@ -59,17 +59,15 @@ career-profile:
 #      Donec quam felis, ultricies nec, pellentesque eu.
 #      Second paragraph if required.
 education:
-    - degree: B.Sc. in Computer Engineering
+    - degree: B.Sc. in Computer Engineering, Minor in Pure Chemistry
       university: Sharif University of Technology
       time: 2017 - Present
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Related Courses: Machine Learning (graduate, audited), Artificial Intelligence,
+        Linear Algebra, Introduction to Bioinformatics, Probability and Statistics, Design of Algorithms,
+        Data Structures and Algorithms, Discrete Structures
+#          - Bullet point
+#          - Bullet point
 experiences:
     - role: Lead Developer
       time: 2015 - Present
