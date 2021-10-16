@@ -5,6 +5,7 @@
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: False # set to False if you want education in main section instead of in sidebar
+    sidecontent: True
 
     # Profile information
     name: Ali J. Alaee
@@ -48,7 +49,7 @@ career-profile:
     title: About Me
     summary: |
        Hi! My name is Ali Jandaghi Alaee and I am in my last year of studies toward a Bachelor's majoring in
-       Computer Engineering at the Sharif University of Technology.
+       Computer Engineering at the Sharif University of Technology. I am currently a research assistant in DML under supervision of <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and Prof. Hosseini.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
        especially Natural Language Processing and Deep Learning. For more details, see my [CV]("www.google.com").    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
