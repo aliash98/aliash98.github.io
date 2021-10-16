@@ -50,7 +50,7 @@ career-profile:
        Hi! My name is Ali Jandaghi Alaee and I am in my last year of studies toward a Bachelor's majoring in
        Computer Engineering at the Sharif University of Technology.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
-       especially Natural Language Processing and Deep Learning. For more details, see my [CV](www.google.com).    
+       especially Natural Language Processing and Deep Learning. For more details, see my [CV]("www.google.com").    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
@@ -62,7 +62,6 @@ education:
     - degree: B.Sc. in Computer Engineering, Minor in Pure Chemistry
       university: Sharif University of Technology
       time: 2017 - Present
-      link: "#"
       details: |
         Related Courses: Machine Learning (graduate, audited), Artificial Intelligence,
         Linear Algebra, Introduction to Bioinformatics, Probability and Statistics, Design of Algorithms,
