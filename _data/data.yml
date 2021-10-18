@@ -14,15 +14,15 @@ sidebar:
 
     # Sidebar links
     email: alialaee98@gmail.com
-    phone: +98 912 802 4005
+#     phone: +98 912 802 4005
 #    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+#     linkedin: alandoe
 #    xing: alandoe
     github: aliash98
     telegram: asap_aliash # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@7thRandomBoy'
+#     twitter: '@7thRandomBoy'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -36,13 +36,16 @@ sidebar:
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Vollyball
         link:
 
-      - item: Snowboarding
+      - item: Hip-Hop Music
         link:
 
-      - item: Cooking
+      - item: Piano
+        link:
+        
+      - item: Table tennis
         link:
 
 career-profile:
@@ -52,7 +55,7 @@ career-profile:
        Computer Engineering at the Sharif University of Technology. I am currently a research assistant in DML under supervision of
        <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Prof. Abbas Hoseini</a>.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
-       especially Natural Language Processing and Deep Learning. For more details, see my [CV]("www.google.com").    
+       especially Natural Language Processing and Deep Learning. For more details, see my  <a href="https://drive.google.com/file/d/1pIkF-afS8fIli0MmneGe9T2_MfhQnkRS/view?usp=sharing" target="_blank" rel="nofollow">CV</a>.    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
