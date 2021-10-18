@@ -99,6 +99,22 @@ experiences:
         one of them, Mahbod Alian, won an international gold medal.
         In addition, he and one of other students of the department have won national gold and bronze medals, respectively.
         
+awards:
+    - role: National Elite Foundation Fellowship
+      time: 2015 - Present
+
+    - role: Gold Medalin Iran National Chemistry Olympiad
+      time: 2016
+      details: |
+        Ranked 7<sup>th</sup> in the 26<sup>th</sup> National Chemistry Olympiad among over 40,000 participants.
+      
+    - role: Silver Medalin Iran National Chemistry Olympiad
+      time: 2015
+      details: |
+        Ranked 27<sup>th</sup> in the 25<sup>th</sup> National Chemistry Olympiad among over 42,000 participants.
+
+
+        
 projects:
     title: Projects
     intro: >
