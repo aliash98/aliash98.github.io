@@ -87,7 +87,7 @@ experiences:
     
     - role: NLP Engineer
       time: Jul 2019 – Jul 2020
-      company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
+      company: <p font-weight:bold;> bold text </p><a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
       details: |
         <p style="text-align: justify;"> In July 2019, I joined a start-up called Pido, One of the largest Fuel Delivery companies in the Middle East. I mainly worked on a project which helped advertisers target relevant users to get the most purchases. In this project, we developed a recommender system based on users' and products' metadata and the history of purchases. An offline implementation of this project based on our method is now deployed in the company's application.
         In this project, I proposed a novel method that is capable of classifying users and products into groups and match them based on their semantic embeddings.   </p>
