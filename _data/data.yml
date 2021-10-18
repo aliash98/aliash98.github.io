@@ -85,7 +85,7 @@ experiences:
         Regardless of the undeniable importance of this field in e-commerce, my most noteworthy research experience has been developing an embedding-based recommender system from scratch with TensorFlow where
         in addition to the queries, personalization has been taken into account for item ranking. </p>
     
-    - role: <p> <strong> NLP Engineer </strong></p>
+    - role: <strong> NLP Engineer </strong>
       time: Jul 2019 – Jul 2020
       company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
       details: |
@@ -110,12 +110,12 @@ experiences:
 #       time: Sep 2017 – Jul 2021
       company: <a href="http://www.sharif.edu/" target="_blank" rel="nofollow">Sharif University of Technology</a>
       details: |
-        <p> Some of my teaching experiences as assistant are:
-        Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020) </p>
+        Some of my teaching experiences as assistant are:
         <ul><li>Artificial Intelligence - Prof. Rohban (Fall 2021 & Spring 2021)</li>
         <li>Linear Algebra - Prof. Abolfazl Motahari (Spring 2021) </li>
-        <li>Probability and Statistics - Prof. Abolfazl Motahari (Fall 2020) </li>
         <li>Linear Algebra - Prof. Abolfazl Motahari (Spring 2021) </li>
+        <li>Probability and Statistics - Prof. Abolfazl Motahari (Fall 2020) </li>
+        <li>Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020) </li>
         </ul>
         
             
