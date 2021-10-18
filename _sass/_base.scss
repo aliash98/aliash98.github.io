@@ -198,6 +198,14 @@ p {
         color: $text-grey;
     }
 
+    .award-title, .membership-title {
+        color: $text-color;
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 0;
+        font-weight: 400;
+    }
+	
     .project-title {
         font-size: 16px;
         font-weight: 400;
