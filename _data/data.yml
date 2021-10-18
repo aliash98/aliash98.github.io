@@ -64,7 +64,7 @@ career-profile:
 #      Donec quam felis, ultricies nec, pellentesque eu.
 #      Second paragraph if required.
 education:
-    - degree: B.Sc. in Computer Engineering, Minor in Pure Chemistry
+    - degree: <strong> B.Sc. in Computer Engineering, Minor in Pure Chemistry </strong>
       university: Sharif University of Technology, <a href="http://ce.sharif.edu/" target="_blank" rel="nofollow">Computer Engineering Department</a>
       time: 2017 - Present
       details: |
@@ -75,7 +75,7 @@ education:
 #          - Bullet point
 #          - Bullet point
 experiences:
-    - role: Research Assistant
+    - role: <strong> Research Assistant </strong>
       time: Jul 2021 - Present
       company: <a href="mlsyslab.github.io" target="_blank" rel="nofollow">Digital Media Laboratory</a>, Sharif University of Technology, Tehran, Iran
       details: |
@@ -93,7 +93,7 @@ experiences:
         In this project, I proposed a novel method that is capable of classifying users and products into groups and match them based on their semantic embeddings.   </p>
            
     
-    - role: Supervisor of the Department of Chemistry Olympiad
+    - role: <strong> Supervisor of the Department of Chemistry Olympiad </strong>
       time: Sep 2017 – Jul 2021
       company: <a href="https://www.helli3.ir/HSchool/#/Frontpage" target="_blank" rel="nofollow">Allameh Helli-3 High School</a>
       details: |
@@ -106,7 +106,7 @@ experiences:
         In addition, he and one of other students of the department have won national gold and bronze medals, respectively. </p>
         
           
-    - role: Teaching Assistant
+    - role: <strong> Teaching Assistant </strong> 
 #       time: Sep 2017 – Jul 2021
       company: <a href="http://www.sharif.edu/" target="_blank" rel="nofollow">Sharif University of Technology</a>
       details: |
