@@ -180,8 +180,11 @@ skills:
       - name: Python 
         level: 85%
 
-      - name: NumPy & TensorFlow 
-        level: 70%
+      - name: Numpy & Pandas
+        level: 90%
+        
+      - name: TensorFlow & Scikit-Learn
+        level: 65%
 
       - name: Javascript & Node
         level: 70%
