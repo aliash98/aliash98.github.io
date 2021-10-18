@@ -177,17 +177,20 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & NumPy & TensorFlow 
-        level: 80%
+      - name: Python 
+        level: 85%
+
+      - name: NumPy & TensorFlow 
+        level: 70%
 
       - name: Javascript & Node
-        level: 75%
+        level: 70%
 
       - name: Java
-        level: 75%
+        level: 65%
 
       - name: C & C++
-        level: 70%
+        level: 60%
 
 
 footer: >
