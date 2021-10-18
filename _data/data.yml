@@ -85,9 +85,9 @@ experiences:
         Regardless of the undeniable importance of this field in e-commerce, my most noteworthy research experience has been developing an embedding-based recommender system from scratch with TensorFlow where
         in addition to the queries, personalization has been taken into account for item ranking. </p>
     
-    - role: NLP Engineer
+    - role: <p> <strong> NLP Engineer </strong></p>
       time: Jul 2019 – Jul 2020
-      company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow"><p> <strong> bold text  </strong></p></a>
+      company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
       details: |
         <p style="text-align: justify;"> In July 2019, I joined a start-up called Pido, One of the largest Fuel Delivery companies in the Middle East. I mainly worked on a project which helped advertisers target relevant users to get the most purchases. In this project, we developed a recommender system based on users' and products' metadata and the history of purchases. An offline implementation of this project based on our method is now deployed in the company's application.
         In this project, I proposed a novel method that is capable of classifying users and products into groups and match them based on their semantic embeddings.   </p>
@@ -103,21 +103,20 @@ experiences:
         and as the mentor and academic advisor of Chemistry Olympiad team, I have helped my students to achieve outstanding results.
         At <a href="https://www.icho2021.org/icho2021/results/" target="_blank" rel="nofollow">IChO 2O21 in Japan (53<sup>rd</sup> International Chemistry Olympiad)</a>,
         one of them, Mahbod Alian, won an international gold medal.
-        In addition, he and one of other students of the department have won national gold and bronze medals, respectively. <ul><li>Milk</li><li>Cheese
-        <ul>
-            <li>Blue cheese</li>
-            <li>Feta</li>
-        </ul>
-        </li>
-        </ul> </p>
+        In addition, he and one of other students of the department have won national gold and bronze medals, respectively. </p>
         
           
     - role: Teaching Assistant
 #       time: Sep 2017 – Jul 2021
       company: <a href="http://www.sharif.edu/" target="_blank" rel="nofollow">Sharif University of Technology</a>
       details: |
-        Some of my teaching experiences as assistant are:<br>Artificial Intelligence - Prof. Rohban (Fall 2021 & Spring 2021)<br>
-        Linear Algebra - Prof. Abolfazl Motahari (Spring 2021) <br> Probability and Statistics - Prof. Abolfazl Motahari (Fall 2020)<br> Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020)
+        <p> Some of my teaching experiences as assistant are:
+        Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020) </p>
+        <ul><li>Artificial Intelligence - Prof. Rohban (Fall 2021 & Spring 2021)</li>
+        <li>Linear Algebra - Prof. Abolfazl Motahari (Spring 2021) </li>
+        <li>Probability and Statistics - Prof. Abolfazl Motahari (Fall 2020) </li>
+        <li>Linear Algebra - Prof. Abolfazl Motahari (Spring 2021) </li>
+        </ul>
         
             
 awards:
