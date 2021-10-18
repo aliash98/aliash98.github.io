@@ -62,7 +62,7 @@ career-profile:
 #      Second paragraph if required.
 education:
     - degree: B.Sc. in Computer Engineering, Minor in Pure Chemistry
-      university: Sharif University of Technology
+      university: Sharif University of Technology, <a href="http://ce.sharif.edu/" target="_blank" rel="nofollow">Computer Engineering Department</a>
       time: 2017 - Present
       details: |
         Related Courses: Machine Learning (graduate, audited), Artificial Intelligence,
