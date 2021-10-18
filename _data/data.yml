@@ -100,12 +100,12 @@ experiences:
         one of them, Mahbod Alian, won an international gold medal.
         In addition, he and one of other students of the department have won national gold and bronze medals, respectively.
           
-    - role: Supervisor of the Department of Chemistry Olympiad
+    - role: Teaching Assistant
 #       time: Sep 2017 – Jul 2021
       company: <a href="http://www.sharif.edu/" target="_blank" rel="nofollow">Sharif University of Technology</a>
       details: |
         Some of my teaching experiences as assistant are: Artificial Intelligence - Prof. Rohban (Fall & Spring 2021), 
-        Linear Algebra - Prof. Abolfazl Motahari (Spring 2021), Probability and Statistics (Fall 2020), Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020), 
+        Linear Algebra - Prof. Abolfazl Motahari (Spring 2021), Probability and Statistics (Fall 2020), Introduction to Bioinformatics - Prof. Sharifi-Zarchi (Fall 2020)
         
             
 awards:
@@ -177,23 +177,18 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python & NumPy & TensorFlow 
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Javascript & Node
+        level: 75%
 
-      - name: Angular
-        level: 98%
+      - name: Java
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C & C++
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
 footer: >
     Sharif University of Technology
