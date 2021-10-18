@@ -87,7 +87,7 @@ experiences:
     
     - role: NLP Engineer
       time: Jul 2019 – Jul 2020
-      company: <p font-weight:bold;> bold text </p><a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
+      company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow"><p> <strong> bold text  </strong></p></a>
       details: |
         <p style="text-align: justify;"> In July 2019, I joined a start-up called Pido, One of the largest Fuel Delivery companies in the Middle East. I mainly worked on a project which helped advertisers target relevant users to get the most purchases. In this project, we developed a recommender system based on users' and products' metadata and the history of purchases. An offline implementation of this project based on our method is now deployed in the company's application.
         In this project, I proposed a novel method that is capable of classifying users and products into groups and match them based on their semantic embeddings.   </p>
@@ -103,7 +103,13 @@ experiences:
         and as the mentor and academic advisor of Chemistry Olympiad team, I have helped my students to achieve outstanding results.
         At <a href="https://www.icho2021.org/icho2021/results/" target="_blank" rel="nofollow">IChO 2O21 in Japan (53<sup>rd</sup> International Chemistry Olympiad)</a>,
         one of them, Mahbod Alian, won an international gold medal.
-        In addition, he and one of other students of the department have won national gold and bronze medals, respectively. </p>
+        In addition, he and one of other students of the department have won national gold and bronze medals, respectively. <ul><li>Milk</li><li>Cheese
+        <ul>
+            <li>Blue cheese</li>
+            <li>Feta</li>
+        </ul>
+        </li>
+        </ul> </p>
         
           
     - role: Teaching Assistant
