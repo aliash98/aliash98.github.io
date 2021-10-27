@@ -127,12 +127,12 @@ awards:
     - role: National Elite Foundation Fellowship
       time: 2015 - Present
 
-    - role: Gold Medal in Iran National Chemistry Olympiad
+    - role: <strong>Gold</strong> Medal in Iran National Chemistry Olympiad
       time: 2016
       details: |
         Ranked 7<sup>th</sup> in the 26<sup>th</sup> National Chemistry Olympiad among over 40,000 participants.
       
-    - role: Silver Medal in Iran National Chemistry Olympiad
+    - role: <strong>Silver</strong> Medal in Iran National Chemistry Olympiad
       time: 2015
       details: |
         Ranked 27<sup>th</sup> in the 25<sup>th</sup> National Chemistry Olympiad among over 42,000 participants.
