@@ -81,17 +81,21 @@ experiences:
       details: |
         <p style="text-align: justify;"> In 2021, I joined the Digital Media Laboratory (DML) as a research assistant under the supervision of 
         <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamidreza Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Prof. Abbas Hoseini</a>.
-        My major involvement with this team is in my thesis project aiming to develop an effective recommender system based on queries and the history of users' behavior.
-        Regardless of the undeniable importance of this field in e-commerce, my most noteworthy research experience has been developing an embedding-based recommender system from scratch with TensorFlow where
-        in addition to the queries, personalization has been taken into account for item ranking. </p>
+        My primary involvement with this team is in my thesis project, developing an effective retrieval system based on the content
+        of queries and items and the history of users' behavior. Regardless of the undeniable importance of this field in e-commerce, 
+        my most substantial research experience has been developing an embedding-based recommender system from scratch with TensorFlow. In addition,
+        personalization based on users' previous actions has been taken into account for item ranking.
+        </p>
     
     - role: <strong> NLP Engineer </strong>
       time: Jul 2019 – Jul 2020
       company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
       details: |
-        <p style="text-align: justify;"> In July 2019, I joined a start-up called Pido, One of the largest Fuel Delivery companies in the Middle East. I mainly worked on a project which helped advertisers target relevant users to get the most purchases. In this project, we developed a recommender system based on users' and products' metadata and the history of purchases. An offline implementation of this project based on our method is now deployed in the company's application.
-        In this project, I proposed a novel method that is capable of classifying users and products into groups and match them based on their semantic embeddings.   </p>
-           
+        <p style="text-align: justify;"> In July 2019, I joined a start-up called Pido, One of the largest Fuel Delivery companies 
+        in the Middle East. I mainly worked on a project which helped advertisers target relevant users to get the most revenue. 
+        In this project, we developed a recommender system based on users' and products' metadata and the history of purchases. Our approach 
+        was to classify users and products and match them based on their semantic embeddings. An offline implementation of this project 
+        based on our method is now deployed in the company's application.</p>
     
     - role: <strong> Supervisor of the Department of Chemistry Olympiad </strong>
       time: Sep 2017 – Jul 2021
