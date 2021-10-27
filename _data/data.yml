@@ -53,7 +53,7 @@ career-profile:
     summary: |
        <p style="text-align: justify;"> Hi! My name is Ali Jandaghi Alaee and I am in my last year of studies toward a Bachelor's majoring in
        Computer Engineering at the Sharif University of Technology. I am currently a research assistant in DML under supervision of
-       <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Prof. Abbas Hoseini</a>.
+       <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Dr. Abbas Hoseini</a>.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
        especially Natural Language Processing and Deep Learning. For more details, see my  <a href="https://drive.google.com/file/d/1pIkF-afS8fIli0MmneGe9T2_MfhQnkRS/view?usp=sharing" target="_blank" rel="nofollow">CV</a>. </p>    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
@@ -80,7 +80,7 @@ experiences:
       company: <a href="mlsyslab.github.io" target="_blank" rel="nofollow">Digital Media Laboratory</a>, Sharif University of Technology, Tehran, Iran
       details: |
         <p style="text-align: justify;"> In 2021, I joined the Digital Media Laboratory (DML) as a research assistant under the supervision of 
-        <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamidreza Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Prof. Abbas Hoseini</a>.
+        <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamidreza Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Dr. Abbas Hoseini</a>.
         My primary involvement with this team is in my thesis project, developing an effective retrieval system based on the content
         of queries and items and the history of users' behavior. Regardless of the undeniable importance of this field in e-commerce, 
         my most substantial research experience has been developing an embedding-based recommender system from scratch with TensorFlow. In addition,
