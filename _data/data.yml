@@ -81,11 +81,11 @@ experiences:
       details: |
         <p style="text-align: justify;"> In 2021, I joined the MLSys Lab as a research assistant under the supervision of 
         <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamidreza Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Dr. Abbas Hoseini</a>.
-        My primary involvement with this team is in my thesis project, developing an effective retrieval method based on the content
+        My primary involvement with this team has been in my thesis project, developing an effective retrieval method based on the content
         of queries and items and the history of users' behavior. Given a query as an input, retrieving and ranking items is critically important
-        in e-commerce platforms. My project aims to propose and develop an effective personalized embedding-based ranking algorithm, to enhance users' experience.
-        The main idea comes from Word2Vec, an NLP algorithm that has been broadened to Search2Vec for recommendation usages. 
-        Training a neural network based on the mentioned algorithms produces an embedding space that can effectively place related queries and items near each other. 
+        in e-commerce platforms. My project aims to propose and develop an effective personalized embedding-based ranking algorithm, to improve users' experience.
+        The main idea is from Word2Vec, an NLP algorithm that has been broadened to Search2Vec for utilization in recommendation systems. 
+        A trained neural network based on the mentioned algorithms produces an embedding space that can effectively place related queries and items near each other.<br>
         Moreover, user clustering, based on users' history of clicks, has been employed to personalize the results of our ranking method. 
         Two datasets, one obtained from torob.ir (one of the largest Persian online shops), and the other from AOL (publicly available on Kaggle), 
         are being used for experimenting.  
