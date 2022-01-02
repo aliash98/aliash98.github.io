@@ -77,17 +77,23 @@ education:
 experiences:
     - role: <strong> Research Assistant </strong>
       time: Jul 2021 - Present
-      company: <a href="mlsyslab.github.io" target="_blank" rel="nofollow">Digital Media Laboratory</a>, Sharif University of Technology, Tehran, Iran
+      company: <a href="https://mlsys.darkube.app/" target="_blank" rel="nofollow">MLSys Laboratory</a>, Sharif University of Technology, Tehran, Iran
       details: |
-        <p style="text-align: justify;"> In 2021, I joined the Digital Media Laboratory (DML) as a research assistant under the supervision of 
+        <p style="text-align: justify;"> In 2021, I joined the MLSys Lab as a research assistant under the supervision of 
         <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamidreza Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Dr. Abbas Hoseini</a>.
-        My primary involvement with this team is in my thesis project, developing an effective retrieval system based on the content
-        of queries and items and the history of users' behavior. Regardless of the undeniable importance of this field in e-commerce, 
-        my most substantial research experience has been developing an embedding-based recommender system from scratch with TensorFlow. In addition,
-        personalization based on users' previous actions has been taken into account for item ranking.
+        My primary involvement with this team is in my thesis project, developing an effective retrieval method based on the content
+        of queries and items and the history of users' behavior. Given a query as an input, retrieving and ranking items is critically important
+        in e-commerce platforms. My project aims to propose and develop an effective personalized embedding-based ranking algorithm, to enhance users' experience.
+        The main idea comes from Word2Vec, an NLP algorithm that has been broadened to Search2Vec for recommendation usages. 
+        Training a neural network based on the mentioned algorithms produces an embedding space that can effectively place related queries and items near each other. 
+        Moreover, user clustering, based on users' history of clicks, has been employed to personalize the results of our ranking method. 
+        Two datasets, one obtained from torob.ir (one of the largest Persian online shops), and the other from AOL (publicly available on Kaggle), 
+        are being used for experimenting.  
+        Implementation of this project with TensorFlow plus weekly progress reports are available in 
+        <a href="https://github.com/aliash98/Search2Vec-BScThesis" target="_blank" rel="nofollow">this github repository</a>.
         </p>
     
-    - role: <strong> NLP Engineer </strong>
+    - role: <strong> Data Scientist </strong>
       time: Jul 2019 – Jul 2020
       company: <a href="http://pido.co.ir/" target="_blank" rel="nofollow">Pido</a>
       details: |
