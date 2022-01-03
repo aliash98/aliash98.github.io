@@ -97,9 +97,10 @@ experiences:
       time: Sep 2021 – Present
       company: Meta-Learning Lab, Sharif University of Technology, Tehran, Iran
       details: |
-        <p style="text-align: justify;"> In September 2021, I started my contribution to the private meta-learning method project in September 2021 by joining the
-        meta-learning group. The supervisor of the lab is <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamid R. Rabiee</a>. We are investigating
-        the threats of reconstruction attacks on meta-learning models, and are proposing a proper defense mechanism for addressing this vulnerability.
+        <p style="text-align: justify;">I started my contribution to the private meta-learning project in a group of three in September 2021 by joining the
+        meta-learning group. In this research project which <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Hamid R. Rabiee</a> is the supervisor,
+        We are investigating
+        the threats of reconstruction attacks on meta-learning models. Furthermore, we are proposing a proper defense mechanism for addressing this vulnerability.
         </p>
 
     - role: <strong> Data Scientist </strong>
