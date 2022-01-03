@@ -52,10 +52,13 @@ career-profile:
     title: About Me
     summary: |
        <p style="text-align: justify;"> Hi! My name is Ali Jandaghi Alaee and I am in my last year of studies toward a Bachelor's majoring in
-       Computer Engineering at the Sharif University of Technology. I am currently a research assistant in DML under supervision of
-       <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Dr. Abbas Hoseini</a>.
+       Computer Engineering at the Sharif University of Technology. I am currently a research assistant in two different research groups under the supervision of
+       <a href="http://sharif.edu/~rabiee/" target="_blank" rel="nofollow">Prof. Rabiee</a> and <a href="http://ce.sharif.edu/~a_hosseini/" target="_blank" rel="nofollow">Prof. Abbas Hoseini</a>.
        My interest is mainly in the applied aspects of artificial intelligence and machine learning,
-       especially Natural Language Processing and Deep Learning. For more details, see my  <a href="https://drive.google.com/file/d/1puoFWU3c9EthxViNJ8uJXQxxvIK48Mf5/view?usp=sharing" target="_blank" rel="nofollow">CV</a>. </p>    
+       especially Natural Language Processing and Deep Learning. More specifically, 
+       I like to contribute to projects close to Data Mining (with concentration on Social Network Mining), User Modeling and Personalization, and Privacy Preserving
+       Techniques on Machine Learning Mehods.
+       For more details, see my  <a href="https://drive.google.com/file/d/1puoFWU3c9EthxViNJ8uJXQxxvIK48Mf5/view?usp=sharing" target="_blank" rel="nofollow">CV</a>. </p>    
 #       I'm in my third year of studies towards a bachelor's in Computer Sciences
 #      Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #      adipiscing elit. You can [download this free resume/CV template here]().
@@ -216,16 +219,19 @@ skills:
         level: 90%
         
       - name: TensorFlow & Scikit-Learn
-        level: 65%
+        level: 70%
+        
+      - name: PyTorch
+        level: 50%
 
       - name: Javascript & Node
         level: 70%
 
       - name: Java
-        level: 65%
+        level: 70%
 
       - name: C & C++
-        level: 60%
+        level: 70%
 
 
 footer: >
